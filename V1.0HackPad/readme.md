@@ -15,3 +15,8 @@ The requirments for this hackpad is the following:
 - The PCB is under 100mm in either direction, and only uses 2 layers
 - Your design is fully original
 - The macropad uses a through-hole Seeed XIAO RP2040 as its main MCU. No exceptions
+
+### Images of the PCB
+![image](https://github.com/user-attachments/assets/5dff2e5b-c712-49f8-806f-346b5a77a713)
+![image](https://github.com/user-attachments/assets/b1905c0a-6936-4d55-a761-2edb2d25cc9b)
+
